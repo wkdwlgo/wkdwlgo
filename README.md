@@ -21,6 +21,11 @@
   <a href="https://www.notion.so/770e05717bdb471c935447596c3438d5"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://jisoleil.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
   <br>
+
+## 💻 GitHub Stats 💻
+  <img src="https://github-readme-stats.vercel.app/api?username=wkdwlgo&theme=vue&show_icons=true"/></a>
+
+
   
 </div>
 <!--
