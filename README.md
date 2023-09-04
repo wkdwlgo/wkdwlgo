@@ -21,7 +21,7 @@
   
 ## 💻 Cowork tools 💻
   <a href="https://github.com/wkdwlgo"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.notion.so/770e05717bdb471c935447596c3438d5"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/43106c70d7cc4c2eb8a1926ab3d687c5"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://jisoleil.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
   <br>
 
