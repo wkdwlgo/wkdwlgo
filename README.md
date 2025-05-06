@@ -12,12 +12,9 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
   <br>
-  
-## 💻 Cowork tools 💻
-  <a href="https://github.com/wkdwlgo"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://glow-clarinet-ba0.notion.site/1b2d5dd6ba8580f088c6f132ff19358b"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="https://jisoleil.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <br>
+
+## 💻 Portfolio 💻
+<a href="https://glow-clarinet-ba0.notion.site/1b2d5dd6ba8580f088c6f132ff19358b"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 ## 💻 GitHub Stats 💻
   <img src="https://github-readme-stats.vercel.app/api?username=wkdwlgo&theme=vue&show_icons=true"/></a>
