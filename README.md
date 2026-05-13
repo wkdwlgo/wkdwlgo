@@ -16,9 +16,6 @@
 ## 💻 Portfolio 💻
 <a href="https://glow-clarinet-ba0.notion.site/1b2d5dd6ba8580f088c6f132ff19358b"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
-## 💻 GitHub Stats 💻
-  <img src="https://github-readme-stats.vercel.app/api?username=wkdwlgo&theme=vue&show_icons=true"/></a>
-
 <!--
 **wkdwlgo/wkdwlgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
